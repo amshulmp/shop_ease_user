@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "371576593800",
+    "project_id": "ecommercebackend-a7c6d",
+    "storage_bucket": "ecommercebackend-a7c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371576593800:android:8c16b7e2a237d8fd2e6e3d",
+        "android_client_info": {
+          "package_name": "com.example.shop_ease_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqA08SROsAJPDZwmt0UygCFrCNypOGJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371576593800:android:2d7305a1ad54f8e42e6e3d",
+        "android_client_info": {
+          "package_name": "com.example.shop_ease_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqA08SROsAJPDZwmt0UygCFrCNypOGJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371576593800:android:aba85d5d23e8d1a12e6e3d",
+        "android_client_info": {
+          "package_name": "com.example.shop_ease_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqA08SROsAJPDZwmt0UygCFrCNypOGJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
