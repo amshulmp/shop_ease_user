@@ -53,8 +53,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAgqA08SROsAJPDZwmt0UygCFrCNypOGJ4',
-    appId: '1:371576593800:android:aba85d5d23e8d1a12e6e3d',
+    apiKey: {your-api-key},
+    appId: {your-api-id},
     messagingSenderId: '371576593800',
     projectId: 'ecommercebackend-a7c6d',
     storageBucket: 'ecommercebackend-a7c6d.appspot.com',
